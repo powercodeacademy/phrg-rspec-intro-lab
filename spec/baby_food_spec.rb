@@ -14,4 +14,6 @@ RSpec.describe BabyFood do
   it "puts 'Whhhaaaa WAAAAHHHHH!!' for hard small peas"
 
   # Can you write one test using iteration to check all the FAVORITE_KINDS of baby food?
+
+  # This spec file is complete when all favorite foods, invalid size, and invalid texture scenarios have been tested.
 end
